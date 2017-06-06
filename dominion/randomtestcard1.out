@@ -1,0 +1,18 @@
+Random Test Smithy Card
+randomtestcard1.c:
+----Random Test smithyAction Function-----
+Random Seed From Program: 1305349595	(--see command line options for Makefile)
+Number of Tests Run: 400000 
+Number of Tests Passed: 0 
+Number of Tests Failed: 400000 
+Test 1- Verify # of Cards in Hand Passed:0 -- Failed:100000 
+Test 2- Verify # of Cards in Discard+Deck Passed:0 -- Failed:100000 
+Test 3- Verify No Smithy Cards Missing From Hand/Deck/Discard Combined Passed:0 -- Failed:100000 
+Test 4- Verify # of Smithy Cards in Discard+Deck Passed:0 -- Failed:100000 
+File 'dominion.c'
+Lines executed:21.54% of 650
+Branches executed:18.23% of 417
+Taken at least once:15.83% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+

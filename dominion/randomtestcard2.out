@@ -1,0 +1,19 @@
+Random Test Village Card
+randomtestcard2.c:
+----Random Test villageAction Function-----
+Random Seed From Program: 1305282367	(--see command line options for Makefile)
+Number of Tests Run: 500000 
+Number of Tests Passed: 200000 
+Number of Tests Failed: 300000 
+Test 1- Verify # of Cards in Hand Passed:100000 -- Failed:0 
+Test 2- Verify # of Cards in Discard+Deck Passed:0 -- Failed:100000 
+Test 3- Verify No Village Cards Missing From Hand/Deck/Discard Combined Passed:0 -- Failed:100000 
+Test 4- Verify # of Actions Increase By 2 Passed:100000 -- Failed:0 
+Test 5- Verify Played Card Count Incrases By One (not trashed) Passed:0 -- Failed:100000 
+File 'dominion.c'
+Lines executed:20.00% of 650
+Branches executed:17.75% of 417
+Taken at least once:14.87% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
